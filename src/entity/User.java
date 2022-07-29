@@ -2,8 +2,6 @@ package entity;
 
 import jdbc.Database;
 
-import java.util.ArrayList;
-
 public class User {
     private String id;
     private String username;

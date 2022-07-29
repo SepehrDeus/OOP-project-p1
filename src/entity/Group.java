@@ -2,8 +2,6 @@ package entity;
 
 import jdbc.Database;
 
-import java.util.PrimitiveIterator;
-
 public class Group {
     private String id;
     private String groupName;
